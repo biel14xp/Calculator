@@ -2,8 +2,6 @@
 
 A responsive, interactive web calculator with real-time error handling. This project was developed to consolidate fundamental front-end development concepts (HTML, CSS, and JavaScript), as well as practice version control with Git and deployment via deployment via GitHub Pages.
 
-> 🌐 **Live Preview:** [Access the running project here!](https://biel14xp.github.io/Calculator/)
-
 ---
 
 ## 🚀 Features
