@@ -18,6 +18,14 @@ A responsive, interactive web calculator with real-time error handling. This pro
 
 ---
 
+## 📂 How to run the project locally
+
+1. Clone this repository:
+```bash
+git clone [https://github.com/biel14xp/Calculator.git](https://github.com/biel14xp/Calculator.git)
+
+---
+
 ## 🛠️ Technologies
 
 <div align="center">
@@ -29,8 +37,3 @@ A responsive, interactive web calculator with real-time error handling. This pro
 
 ---
 
-## 📂 How to run the project locally
-
-1. Clone this repository:
-```bash
-git clone [https://github.com/biel14xp/Calculator.git](https://github.com/biel14xp/Calculator.git)
