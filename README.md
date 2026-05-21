@@ -18,14 +18,6 @@ A responsive, interactive web calculator with real-time error handling. This pro
 
 ---
 
-## 📂 How to run the project locally
-
-1. Clone this repository:
-```bash
-git clone [https://github.com/biel14xp/Calculator.git](https://github.com/biel14xp/Calculator.git)
-
----
-
 ## 🛠️ Technologies
 
 <div align="center">
@@ -34,6 +26,3 @@ git clone [https://github.com/biel14xp/Calculator.git](https://github.com/biel14
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
-
----
-
