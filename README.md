@@ -1,4 +1,4 @@
-# 🧮 Modern Web Calculator
+# 🧮 Calculator
 
 A responsive, interactive web calculator with real-time error handling. This project was developed to consolidate fundamental front-end development concepts (HTML, CSS, and JavaScript), as well as practice version control with Git and deployment via deployment via GitHub Pages.
 
@@ -14,7 +14,7 @@ A responsive, interactive web calculator with real-time error handling. This pro
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
